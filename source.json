@@ -1,7 +1,7 @@
 {
     "name":"MoomA's Trash Can",
     "id":"io.mooma-0750.vpm",
-    "url":"https://mooma-0750.github.io/vpm-repos/source.json",
+    "url":"https://raw.githubusercontent.com/MoomA-0750/vpm-repos/refs/heads/main/source.json",
     "author":{
         "email":"castles_help.1m@icloud.com",
         "name":"MoomA",
